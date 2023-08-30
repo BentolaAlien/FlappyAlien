@@ -1,0 +1,13 @@
+Sprites:
+Cano 1
+Cano 2
+Player
+Background
+Game Over
+Menu
+
+
+
+
+GAME_OVER = Tela de Game over
+RUNNING = Tela de jogo
